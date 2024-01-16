@@ -1,8 +1,35 @@
-# React + Vite
+<h1 align="center">Welcome to grassroots-nexus-client 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> This project is part of a full-stack web application that integrates a React front-end with an Express.js server, utilizing MongoDB as the database. The server-side, built with Express.js, provides a robust API for data handling, while the MongoDB database ensures efficient data storage and retrieval. The front-end is developed using React, offering an interactive UI that communicates with the backend via API calls. The project will serve as part of a platform that will help political campaigns handle and communicate information seamlessly and efficiently.
 
-Currently, two official plugins are available:
+## Install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
+## Author
+
+👤 **Dia-Dev-Design**
+
+* Github: [@Dia-Dev-Design](https://github.com/Dia-Dev-Design)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Dia-Dev-Design/grassroots-nexus-client/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
